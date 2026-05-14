@@ -30,7 +30,8 @@ Built using **Power BI**, **Python**, and **Data Analytics techniques**.
 ## 🎥 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="900"/>
+  <img src="<img width="1295" height="717" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/d591aaf7-ea9c-4246-8ac3-017a2eac01f6" />
+
 </p>
 
 ---
